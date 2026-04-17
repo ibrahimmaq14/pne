@@ -1,0 +1,17 @@
+__pycache__/
+.ipynb_checkpoints/
+
+venv/
+.venv/
+env/
+
+chest_xray/
+output/
+archive.zip
+*.zip
+*.h5
+*.keras
+*.ckpt
+
+.DS_Store
+Thumbs.db
